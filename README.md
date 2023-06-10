@@ -9,7 +9,9 @@ https://developer.spotify.com/dashboard/create
 Set the redirect url to http://localhost:9090.
 
 ### Usage
-Clone the repository, then just run
+Clone the repository and enter your credentials into `config.py`.
+
+Then just run
 ```
 docker-compose up
 ```
