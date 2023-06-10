@@ -1,0 +1,2 @@
+musicbrainzngs==0.7.1
+spotipy==2.23.0
